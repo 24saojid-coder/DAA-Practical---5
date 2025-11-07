@@ -3,6 +3,7 @@ Aim: Implement Longest Common Subsequence (LCS) algorithm to find the length and
 TASK-1: Find the similarity between the given X and Y sequence.
 X=AGCCCTAAGGGCTACCTAGCTT
 Y= GACAGCCTACAAGCGTTAGCTTG
+
 Code link : https://www.programiz.com/online-compiler/0WamkzXhH3cTr
 
 
@@ -13,4 +14,5 @@ effectively compare S with itself. So, consider string1 = S and string2 = S.
 Example:
 AABCBDC
 LRS= ABC or ABD
+
 Code link : https://www.programiz.com/online-compiler/5lKuqHfnlXfCv
