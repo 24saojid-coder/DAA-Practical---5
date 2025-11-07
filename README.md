@@ -4,6 +4,8 @@ TASK-1: Find the similarity between the given X and Y sequence.
 X=AGCCCTAAGGGCTACCTAGCTT
 Y= GACAGCCTACAAGCGTTAGCTTG
 Code link : https://www.programiz.com/online-compiler/0WamkzXhH3cTr
+
+
 TASK-2: Find the longest repeating subsequence (LRS). Consider it as a variation of the
 longest common subsequence (LCS) problem.
 Let the given string be S. You need to find the LRS within S. To use the LCS framework, you
